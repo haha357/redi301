@@ -20,7 +20,7 @@ const (
 	LogLevel = logrus.FatalLevel
 	Header   = `=========================================================
 Welcome to use this application.
-If you like this application, you can donate to the auth.
+If you like this application, you can donate to the author.
 USDT(Trc20) wallet: TB8meT4Pm9KFXRJ8SNCfxx4yBGPbk3Ekip
 Thank you so much.
 =========================================================`
