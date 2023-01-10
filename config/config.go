@@ -17,7 +17,7 @@ var (
 )
 
 const (
-	LogLevel = logrus.DebugLevel
+	LogLevel = logrus.FatalLevel
 	Header   = `=========================================================
 Welcome to use this application.
 If you like this application, you can donate to the author.
