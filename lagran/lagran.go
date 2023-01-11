@@ -20,10 +20,10 @@ const (
 	EnableAck          = true
 	EnablePshAck       = true
 	EnableFinAck       = true
-	WindowSizeOfSynAck = 4
-	WindowSizeOfAck    = 4
-	WindowSizeOfPshAck = 4
-	WindowSizeOfFinAck = 4
+	WindowSizeOfSynAck = 5
+	WindowSizeOfAck    = 5
+	WindowSizeOfPshAck = 5
+	WindowSizeOfFinAck = 5
 )
 
 func Run() {
