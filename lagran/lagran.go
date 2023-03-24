@@ -20,7 +20,7 @@ const (
 	EnableAck          = true
 	EnablePshAck       = true
 	EnableFinAck       = true
-	WindowSizeOfSynAck = 5
+	WindowSizeOfSynAck = 15
 	WindowSizeOfAck    = 5
 	WindowSizeOfPshAck = 5
 	WindowSizeOfFinAck = 5

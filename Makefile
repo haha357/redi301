@@ -1,5 +1,5 @@
 # BINARY FILE
-PROJECT="redi301"
+PROJECT="redi301-dev"
 # START FILE PATH
 MAIN_PATH="main.go"
 build:
